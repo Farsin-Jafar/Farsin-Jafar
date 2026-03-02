@@ -71,4 +71,4 @@
 
 ---
 
-<h3 align="center">⚡ Building Today for a Better Tomorrow ⚡</h3>
+<h3 align="center">⚡ Code Today. Cry Tomorrow. Deploy Anyway. ⚡</h3>
