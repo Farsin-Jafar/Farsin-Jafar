@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Farsin Jafar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=React+Developer;Frontend+Specialist;Future+Full+Stack+Developer;AI+%26+ML+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=React+Developer;Frontend+Specialist;Future+Full+Stack+Developer;AI+%26+ML+Enthusiast" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Y1YWtnMm52YXJuZTh1ZDNxYmdobmVodWM3cnBlcTMwdjZmYXI0aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400" />
 </p>
 
 ---
@@ -26,9 +26,17 @@
 
 <p align="center">
   
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/farsin_jafar?igsh=M3FwZmhwb25haWd2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/farsin-jafar/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:farsinjafarK@gmail.com)
+<a href="https://www.instagram.com/farsin_jafar?igsh=M3FwZmhwb25haWd2">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/farsin-jafar/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:farsinjafarK@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+</a>
 
 </p>
 
