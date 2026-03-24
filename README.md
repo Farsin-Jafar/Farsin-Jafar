@@ -78,5 +78,3 @@
 </p>
 
 ---
-
-<h3 align="center">⚡ Code Today. Cry Tomorrow. Deploy Anyway. ⚡</h3>
