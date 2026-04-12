@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Farsin Jafar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=React+Developer;Frontend+Specialist;Future+Full+Stack+Developer;AI+%26+ML+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Building+Scalable+Web+Apps;AI+%26+ML+Enthusiast" />
 </p>
 
 <p align="center">
@@ -12,12 +12,12 @@
 
 # 💫 About Me
 
-💻 Frontend Developer specializing in **React.js**  
+💻 MERN Stack Developer building **full-stack web applications**  
 🎓 BCA Graduate  
+🚀 Focused on creating **scalable, efficient, and real-world web solutions**  
+🔐 Experienced in **authentication, APIs, and database management**  
 🧠 Passionate about **AI, Machine Learning & Modern Web Technologies**  
-🚀 Building scalable, responsive & performance-focused web applications  
-📚 Currently expanding into **Backend Development**  
-🔎 Actively seeking **Web Development opportunities**  
+🔎 Actively seeking **Full-Stack Web Development opportunities**  
 📍 Based in India  
 
 ---
@@ -49,27 +49,25 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite,bootstrap" />
 </p>
 
-### ⚙️ Backend & Programming
+### ⚙️ Backend
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### 🛠 Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman" />
 </p>
 
 ---
 
-## 🧠 Currently Learning
+## ⚡ What I Do
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" />
-</p>
-
-- Backend Architecture  
-- API Development  
-- Full Stack Project Structuring  
+- Build full-stack applications using the **MERN stack**  
+- Design clean and responsive user interfaces  
+- Develop REST APIs and handle backend logic  
+- Implement authentication and secure systems  
+- Work with databases and optimize data flow  
 
 ---
 
